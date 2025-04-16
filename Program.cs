@@ -1,5 +1,4 @@
-﻿//№2
-using System;
+﻿using System;
 using System.Collections.Specialized;
 using System.IO;
 class Program
